@@ -16,10 +16,19 @@ This application will send the sms to the configured destinator.
 
 Available for Download are 
 - Schematics Siemens Logo circuits.
-- Siemens Logo and LWE program
+  CarpoortAlarm_Schemas.pdf
+  
+- Siemens Logo
+  Carpoort-Alarm-V1-8.mnp
+  
+- Siemens LWE
+  LWE_Carpoort_Alarm_V3.7z
+  
 - Java Application the scans the Alarm contact 
+  Carpoort_Alarm.7z
+  
 - Java Application that controls fastrac Gsm modem
-
+  RS232.7z
 
 
 
